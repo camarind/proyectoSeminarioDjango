@@ -1,0 +1,6 @@
+git status
+git add.
+git commit -m " nombre del commit"
+git push -u orgini master
+
+probando
